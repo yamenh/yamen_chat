@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896372447648",
+    "project_id": "yamen-chat-68574",
+    "storage_bucket": "yamen-chat-68574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896372447648:android:2000083828e660354f6cc5",
+        "android_client_info": {
+          "package_name": "com.yamenhammad.yamen_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896372447648-ilkl57h135f2n5bo85psovdbmjssklab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdQrgbAyHCHgl_6FjCyeqm0krPEXey3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896372447648-ilkl57h135f2n5bo85psovdbmjssklab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
